@@ -10,3 +10,4 @@
 |     Nome    	|          Tipo          	|            Linguagens           	|     Link    	|
 |:-----------:	|:----------------------:	|:-------------------------------:	|:-----------:	|
 | Bubble Sort 	| Algorítmo de ordenação 	| Java / C# / JavaScript / Python 	| [Clique aqui](https://github.com/daviddev16/data-science/tree/master/sorting-algorithms/bubble-sort) 	|
+| Binary Search 	| Algorítmo de pesquisa 	| Java / JavaScript | [Clique aqui](https://github.com/daviddev16/data-science/tree/master/sorting-algorithms/binary-search) 	|
